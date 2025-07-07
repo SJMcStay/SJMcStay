@@ -24,6 +24,10 @@ I'm a dual-degree student pursuing **B.S. in Computer Science** and **B.S. in Da
 
 ## 📚 Projects
 
+### 🔹 Options Pricing & Risk Engine
+*A Python engine to price European options using financial models and analyze risk.*
+> 🧠 Python, NumPy, SciPy | 📈 Black-Scholes, Monte Carlo & Greeks
+
 ### 🔹 Stock Price Prediction
 *Random Forest classifier using historical S&P 500 data.*  
 > 🧠 scikit-learn, pandas | 🔍 Accuracy: 57%
